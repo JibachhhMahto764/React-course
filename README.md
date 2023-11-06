@@ -65,5 +65,3 @@ This course is licensed under the [MIT License](LICENSE).
 
 Happy learning and enjoy the React course for beginners!
 ```
-
-You can customize this `README.md` template to fit your specific course content, add more details, and provide information about instructors, resources, and any other relevant information.
