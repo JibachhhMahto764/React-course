@@ -1,4 +1,4 @@
-#foryou 
+
 # React Course for Beginners
 
 Welcome to the React Course for Beginners! This course is designed to help you get started with React, a popular JavaScript library for building user interfaces. Whether you're new to web development or looking to learn React, this course will provide you with a solid foundation.
